@@ -1,0 +1,19 @@
+body{
+    font-family: 'Montserrat Alternates', sans-serif;
+    /* background-image: linear-gradient(45deg, rgba(255,0,0,0), rgb(153, 4, 4)); */
+   
+}
+
+.picture{
+    background-image: url(images/bottle-cuisine-delicious-1028427.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100%;
+    background-position: center;
+    color:white;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+   
